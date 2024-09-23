@@ -1,0 +1,8 @@
+# week1
+python-dotenv
+requests
+lxml
+
+# week3
+numpy
+matplotlib
